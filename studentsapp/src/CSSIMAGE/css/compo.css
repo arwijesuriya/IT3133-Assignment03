@@ -12,15 +12,15 @@
 {
     background-color: #efefef;
     color: #000;
-    width: 48%;
+    width: 40%;
     float: left;
 }
 .rightDiv
 {
-    background-color: #efefef;
+    background-color: #e2e8f0;
     color: #000;
-    width: 48%;
-    float: right;
+    width: 60%;
+    float: left;
 }
 .profile{
     width: 75%;
